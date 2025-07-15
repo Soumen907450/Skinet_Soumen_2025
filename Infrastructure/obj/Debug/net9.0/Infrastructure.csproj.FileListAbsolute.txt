@@ -13,3 +13,4 @@ D:\soumen\My Learning\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
 D:\soumen\My Learning\skinet\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 D:\soumen\My Learning\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 D:\soumen\My Learning\skinet\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\soumen\My Learning\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
